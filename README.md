@@ -2,7 +2,7 @@
 My name is Claire and I'm in my fifth year of physics 🔭 and neuroscience 🧠
 
 ### Why are you enrolled in this class
-
+I've taken a couple python courses other years but I haven't been a big fan of how they were structured and a lot of what they taught didn't stick. I figured where this is a lab class, it'll be more hands on and since it's a neuro course I think it'll be a lot more interesting than the other python courses I've taken.
 
 ### What got me interested in neuroscience?
 I started off my undergrad as a physics major but after my second year I wasn't super happy in the program. One of my roommates at the time was in neuroscience and would tell me about what she was learning in classes and I found everything she told me to be interesting. She encouraged me to take neuro classes so I picked up the neuro major and have thoroughly enjoyed it ever since. 
