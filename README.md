@@ -7,7 +7,7 @@
 I've taken a couple python courses other years but I haven't been a big fan of how they were structured and a lot of what they taught didn't stick. I figured where this is a lab class, it'll be more hands on and since it's a neuroscience course I think it'll be a lot more interesting than the other python courses I've taken.
 
 ### What got me interested in neuroscience?
-I started off my undergrad as a physics major but after my second year I wasn't super happy in the program. One of my roommates at the time was in neuroscience and would tell me about what she was learning in classes and I found everything she told me to be interesting. She encouraged me to take neuro classes so I picked up the neuro major and have thoroughly enjoyed it ever since. 
+I started off my undergrad as a physics major but after my second year I wasn't super happy in the program. One of my roommates at the time was in neuroscience and would tell me about what she was learning in classes. I found everything she told me to be really interesting. She encouraged me to take some neuroscience classes so I decided to double major and have thoroughly enjoyed it ever since. 
 
 ### My post graduation plans 👩‍🎓
 Ultimately I want to work in healthcare but I'm not entirely sure what kind of work I want to do. I plan on applying to masters programs and I have two paths I'm considering at the moment:
