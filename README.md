@@ -1,4 +1,14 @@
-## Hi there 👋
+## Get to know me!
+My name is Claire and I'm in my fifth year of physics 🔭 and neuroscience 🧠
+
+### Why are you enrolled in this class
+
+
+### What got me interested in neuroscience?
+I started off my undergrad as a physics major but after my second year I wasn't super happy in the program. One of my roommates at the time was in neuroscience and would tell me about what she was learning in classes and I found everything she told me to be interesting. She encouraged me to take neuro classes so I picked up the neuro major and have thoroughly enjoyed it ever since. 
+
+### My post graduation plans 👩‍🎓
+Post-grad I plan on doing my masters in epidemiology (🤞). I'm not entirely sure what I want to do after that but as of right now I want to work in a healthcare related field. 
 
 <!--
 **claire-davis/claire-davis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
