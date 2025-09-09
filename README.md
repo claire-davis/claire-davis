@@ -3,7 +3,7 @@
 
 ![alt text](DSCN4801.jpg)
 
-### Why am I enrolled in this class?
+### Why am I enrolled in Neural Data Science?
 I've taken a couple python courses other years but I haven't been a big fan of how they were structured and a lot of what they taught didn't stick. I figured where this is a lab class, it'll be more hands on and since it's a neuroscience course I think it'll be a lot more interesting than the other python courses I've taken.
 
 ### What got me interested in neuroscience?
