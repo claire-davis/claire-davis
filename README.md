@@ -11,8 +11,8 @@ I started off my undergrad as a physics major but after my second year I wasn't 
 
 ### My post graduation plans 👩‍🎓
 Ultimately I want to work in healthcare but I'm not entirely sure what kind of work I want to do. I plan on applying to masters programs and I have two paths I'm considering at the moment:
-1. A masters in epidemiology - definitely my first choice for when I graduate
-2. A masters in medical physics - I'm doing my honours project with a medical physicist so I figured if I enjoy the research I'm doing it wouldn't hurt to apply
+1. A masters in epidemiology - this is definitely my first choice for when I graduate
+2. A masters in medical physics - I'm doing my honours project with a medical physicist so I figured if I enjoy the research it could be a good idea to apply for medical physics as well to keep my options open
 
 
 <!--
